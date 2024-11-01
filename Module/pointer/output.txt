@@ -1,1 +1,5 @@
-2 1
+Value is a : 5
+Address is a : 6422300
+Address of ptr : 6422300
+Content of ptr: 5
+Address of ptr: 6422296

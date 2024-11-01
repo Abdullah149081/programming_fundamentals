@@ -7,9 +7,7 @@ int main()
     int *x = &a, *y = &b;
 
     int temp = *x;
-
     *x = *y;
-
     *y = temp;
 
     printf("%d %d", *x, *y);
