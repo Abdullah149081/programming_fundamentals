@@ -10,6 +10,5 @@
   "files.associations": {
     "stdio.h": "c"
   },
-  "files.autoSave": "afterDelay",
-  "workbench.colorTheme": "Learn with Sumit Official Theme"
+  "files.autoSave": "afterDelay"
 }
