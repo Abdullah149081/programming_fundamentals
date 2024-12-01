@@ -3,6 +3,9 @@
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.fontSize": 20,
   "terminal.integrated.fontFamily": "Cascadia Code",
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
   "files.associations": {
     "stdio.h": "c",
     "iostream": "cpp",
@@ -49,7 +52,8 @@
     "stdexcept": "cpp",
     "streambuf": "cpp",
     "typeinfo": "cpp",
-    "valarray": "cpp"
+    "valarray": "cpp",
+    "chrono": "cpp"
   },
   "files.autoSave": "afterDelay"
 }
