@@ -55,5 +55,6 @@
     "valarray": "cpp",
     "chrono": "cpp"
   },
-  "files.autoSave": "afterDelay"
+  "files.autoSave": "afterDelay",
+  "cSpell.words": ["Linearithmic"]
 }

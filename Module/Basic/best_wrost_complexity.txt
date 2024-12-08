@@ -1,0 +1,26 @@
+Best to Worst Complexity
+
+All time worst Complexity given 
+
+Constant :O(1)
+Linear: O(N) // +,- condition
+Logarithmic: O(logN) update (*,/)
+square root: O(sqrt(N))
+quadratic: O(N*N) // Nested loop
+Linearithmic :O(NlogN)
+
+
+input: 1000
+
+// operation
+
+Constant :O(1)  -> 1
+Logarithmic: O(logN)  -> 10
+square root: O(sqrt(N)) -> 32
+Linear: O(N)    -> 1000
+Linearithmic :O(NlogN)   -> 10000
+quadratic: O(N*N)       ->1000000
+
+
+1s -> 10^7
+2s -> 2*10^7
