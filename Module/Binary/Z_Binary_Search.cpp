@@ -28,12 +28,12 @@ int main()
             }
             if (x > a[mid])
             {
-                // dane
+                // dane or front go
                 l = mid + 1;
             }
             else
             {
-                // bame
+                // bame or back come
                 r = mid - 1;
             }
         }
